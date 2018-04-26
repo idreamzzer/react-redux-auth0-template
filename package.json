@@ -1,0 +1,26 @@
+{
+  "name": "react-redux-auth0-template",
+  "version": "0.1.0",
+  "description": "Minimal starter boilerplate project with React, Redux, React Router and Auth0 authentication",
+  "author": "Alexey Uskov",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "auth0-lock": "^11.5.2",
+    "jwt-decode": "^2.2.0",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
